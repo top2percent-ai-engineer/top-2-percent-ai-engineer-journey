@@ -26,4 +26,33 @@ This project focuses on **writing clean Python code**, understanding **logic, fl
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🎯 Learning Objectives
+- Strengthen core Python fundamentals  
+- Write readable and structured code  
+- Improve logical thinking for future AI/ML work  
+- Build discipline through project-based learning  
+
+---
+
+## 🚀 Journey Context
+This is **Project 1 out of 3** in **Phase 0**.  
+Each phase in my journey is **project-driven**, not certificate-driven.
+
+> *Strong foundations create exceptional AI Engineers.*
+
+---
+
+## 🔗 Next Steps
+- Complete remaining Phase 0 projects  
+- Move into Data Structures + Algorithms  
+- Transition towards ML & AI-focused projects  
+
+---
+
+## 📌 Author
+**Top2Percent-AI**  
+*Aspiring AI Engineer | Future Founder*
+

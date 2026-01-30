@@ -1,19 +1,29 @@
-# CLI File Manager
+# 📌 Project 1: Core Python Mini Project
 
-First project of Phase 0 – Core Python Programming.
+## 🔹 Phase: 0 — Core Python Programming  
+**Part of:** Top 2% AI Engineer Journey 🚀
 
-This project is built to practice Python fundamentals using a command-line interface.
+---
 
-## Features
-- List files and folders
-- Create files and folders
-- Delete files and folders
-- Move files and folders
-- Rename files and folders
-- Search files and folders
+## 🧠 Project Overview
+This project is part of **Phase 0 (Core Python)** in my long-term roadmap to become a **Top 2% AI Engineer globally**.
 
-## How to Run
-Run the Python file using:
+The goal of this phase is to build **strong programming fundamentals** before moving into Machine Learning, Deep Learning, and AI systems.
 
-python main.py
+This project focuses on **writing clean Python code**, understanding **logic, flow, and structure**, and developing the habit of **problem-solving through code**.
 
+---
+
+## 🛠️ Concepts Covered
+- Python syntax & basics  
+- Variables & data types  
+- Conditional statements  
+- Loops  
+- Functions  
+- Basic data structures  
+- File handling (if used)  
+- Problem-solving & logic building  
+
+---
+
+## 📂 Project Structure

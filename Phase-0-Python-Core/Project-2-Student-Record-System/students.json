@@ -1,0 +1,18 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Fatima Tul Zahra",
+            "age": "21",
+            "email": "fz2275280@gmail.com",
+            "course": "Computer Science"
+        },
+        {
+            "id": 2,
+            "name": "Mahnoor Fatima",
+            "age": "22",
+            "email": "glamprelovedcloset@gmail.com",
+            "course": "Information Security"
+        }
+    ]
+}
